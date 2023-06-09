@@ -170,7 +170,7 @@ width: 400px;
     color: #373737;
 }
 
-@media (max-width:768px){
+@media (max-width:800px){
     .container{
         justify-content: center;
         align-items: center;
